@@ -6,6 +6,12 @@
 		"php": "^5.3.3 || >=7.0"
 	
 	},
+	 "repositories": [
+		{
+		    "type": "vcs",
+		    "url": "https://github.com/davidrodarte/laravel-odbc"
+		}
+   	 ],
 	"autoload": {
 		"classmap": [
 			"src"
