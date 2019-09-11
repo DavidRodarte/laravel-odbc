@@ -12,9 +12,7 @@
 		}
 	],
 	"require": {
-		"php": "^5.3.3 || >=7.0",
-		"illuminate/database": "~5.1",
-		"illuminate/support": "~5.1"
+		"php": "^5.3.3 || >=7.0"
 	},
 	"autoload": {
 		"classmap": [
