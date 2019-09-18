@@ -2,6 +2,8 @@
 This integration allows the use of <b>odbc_*</b> php function with Laravel framework instead of PDO.<br>
 It emulates PDO class used by Laravel.
 
+### Now working on Laravel 6+
+
 ### # How to install
 > `composer require davidrodarte/laravel-odbc` To add source in your project
 
